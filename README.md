@@ -1,17 +1,9 @@
 ## 👋 Hi there
-My name is Alan and i'm a back-end java developer!
 
-## 🚀 My skills
-[![My Skills](https://skillicons.dev/icons?i=linux,java,spring,postgres,aws)](https://skillicons.dev)
+Analista de qualidade de software, tenho focado meus estudos em Java e Spring almejando uma transição de carreira para a área de desenvolvimento que tanto gosto.
 
-## 🛠️ Development Tools
-[![My Skills](https://skillicons.dev/icons?i=idea,postman)](https://skillicons.dev)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+* 🎓 Bacharel em Sistemas de infomação
+* 💻 Certificações: Linux Essentials, CTFL
+* 🌎 Explorando o desenvolvimento em Rust.
+* ⚡ Fun fact: Java paga os boletos mas Rust é o futuro que me motiva!
