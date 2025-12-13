@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Alan!
 
-Analista de qualidade de software, tenho focado meus estudos em Java e Spring almejando uma transição de carreira para a área de desenvolvimento que tanto gosto.
+Desenvolvedor Java Junior (Spring Boot)
 
 ## Sobre mim
 * 🎓 Bacharel em Sistemas de Informação.
