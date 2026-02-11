@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Alan!
 
-Desenvolvedor Java junior
+Desenvolvedor Java
 
 ## Sobre mim
 * 🎓 Bacharel em Sistemas de Informação.
