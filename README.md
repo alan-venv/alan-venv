@@ -1,6 +1,7 @@
 ## 👋 Olá, eu sou o Alan!
 
-Desenvolvedor Java
+Desenvolvedor backend e entusiasta de Linux.
+Construindo sistemas confiáveis. Automatizando tudo.
 
 ## Sobre mim
 * 🎓 Bacharel em Sistemas de Informação.
